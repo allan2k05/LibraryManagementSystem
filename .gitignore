@@ -1,0 +1,16 @@
+# Maven
+target/
+
+# Java
+*.class
+
+# IDE files
+.vscode/
+.idea/
+
+# Local configuration
+application-local.properties
+
+# Operating system
+.DS_Store
+Thumbs.db
